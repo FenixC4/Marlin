@@ -1737,7 +1737,7 @@
    *  |  1       2  |   | 1         4 |    | 1         2 |   | 2           |
    *  LF --------- RF   LF --------- RF    LF --------- RF   LF --------- RF
    */
-  #define LEVEL_CORNERS_LEVELING_ORDER { LF, RB, RE, LB }
+  #define LEVEL_CORNERS_LEVELING_ORDER { LF, RB, RF, LB }
 #endif
 
 /**
